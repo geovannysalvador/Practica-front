@@ -1,0 +1,21 @@
+
+
+.red {
+    height: 400px;
+    width: 400px;
+    background-color: brown;
+}
+
+#boton-pago {
+    background-color: burlywood;
+}
+
+td {
+    border: solid 2px;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -ms-border-radius: 2px;
+    -o-border-radius: 2px;
+}
+
